@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![pikepdf](https://img.shields.io/badge/pikepdf-10.17.0-orange.svg)](https://github.com/pikepdf/pikepdf)
 
+> Created by Fathir Afatar
+
 A lightweight, purely script-based utility designed to automatically generate multiple password-protected dummy PDF files along with an accompanying plain-text password list. Perfect for testing PDF decryption tools or bulk workflows without risking real data.
 
 ---
@@ -40,6 +42,9 @@ Ensure you have Python installed on your system, along with pip.
 ### Installation
 
 1. Clone or download this repository to your local machine.
+```
+git clone https://github.com/Fathir-Afatar/-Script-Password-Protected-PDF-file-generator.git
+```
 2. Use python virtual enviroment (recomended)
 ```
 python -m venv venv
