@@ -67,7 +67,7 @@ python -m pdf-locker-gui
 
 Once executed, the script will output a dedicated folder containing:
 
-* `X` number of encrypted PDF files (e.g., `dummy_file_001.pdf`, etc.)
+* `X` number of encrypted PDF files (e.g., `dummy_01.pdf`, etc.)
 * A single `.txt` file containing the plaintext index list of all passwords corresponding to each file.
 
 ## 📄 License
