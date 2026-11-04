@@ -25,11 +25,11 @@ Originally built as a testing utility to generate dummy encrypted PDFs for bench
 
 Built with **Python** and powered by the following core libraries:
 
-* `pikepdf==10.17.0` (PDF encryption and manipulation)
-* `fpdf==1.7.2` (PDF document creation)
-* `lxml==6.1.3` (XML processing support)
-* `packaging==26.3` (Version handling)
-* `pillow==13.0.0` (Image handling)
+* `pikepdf = 10.17.0` (PDF encryption and manipulation)
+* `fpdf = 1.7.2` (PDF document creation)
+* `lxml = 6.1.3` (XML processing support)
+* `packaging = 26.3` (Version handling)
+* `pillow = 13.0.0` (Image handling)
 
 ## 📦 Getting Started
 
