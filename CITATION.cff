@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software or its associated research preprint, please cite it as below."
+authors:
+  - family-names: "Afatar"
+    given-names: "Fathir"
+title: "-Script-Password-Protected-PDF-file-generator"
+version: 1.0.0
+date-released: 2026-11-4
+url: "https://github.com/Fathir-Afatar/-Script-Password-Protected-PDF-file-generator.git"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24148503"
